@@ -1,6 +1,11 @@
-<!-- Banner Image (You can replace the link below with your own banner) -->
+<!-- 🌟 Banner Image -->
 <p align="center">
-  <img src="https://readme-hero.vercel.app/api?username=Muthumani2004&show_icons=true&count_private=true&title_color=ffffff&text_color=c0c0c0&icon_color=79ff97&bg_color=151515" alt="Muthumani's Banner" />
+  ![Header](./your-header-image-name.png)
+</p>
+
+<!-- 👀 Visitor Counter -->
+<p align="center">
+  👀 <img src="https://profile-counter.glitch.me/Muthumani2004/count.svg" />
 </p>
 
 <h2 align="center">Hi there 👋, I'm <span style="color:#00BFFF;">Muthumani P.</span></h2>
@@ -18,7 +23,7 @@
 
 ---
 
-### 💻 Tech Stack
+### 💻 Programming Skills
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++"/>
@@ -31,13 +36,15 @@
 
 ---
 
-### 🧰 Tools I Use
+### 🛠 Editing & Creative Tools
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva"/>
   <img src="https://img.icons8.com/color/48/adobe-premiere-pro.png" height="40" alt="Premiere Pro"/>
+  <img src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" height="40" alt="Photoshop"/>
+  <img src="https://img.icons8.com/color/48/capcut.png" height="40" alt="CapCut"/>
 </div>
 
 ---
@@ -49,6 +56,9 @@
   </a>
   <a href="https://www.hackerrank.com/profile/muthumani4002" target="_blank">
     <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/muthumani4002/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/_._mr_._imperfect_._/?hl=en" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
@@ -64,14 +74,3 @@
 </div>
 
 ---
-
-### 👁 Visitor Counter
-<p align="left">
-  <img src="https://profile-counter.glitch.me/Muthumani2004/count.svg" />
-</p>
-
----
-
-### 🎯 2025 Progress
-```markdown
-![Year Progress](https://progress-bar.dev/35/?title=2025+Progress)
