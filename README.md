@@ -1,6 +1,6 @@
 <!-- 🌟 Banner Image -->
 <p align="center">
-  ![Header](./your-header-image-name.png)
+  <img src="./your-header-image-name.png" alt="Banner" />
 </p>
 
 <!-- 👀 Visitor Counter -->
@@ -17,7 +17,7 @@
 - 🔭 Currently working on: **Proactive Obstacle Monitoring and Detection System**  
 - 🌱 Learning: **Full Stack Development**  
 - 💼 Looking for: **Full-time job through internships**  
-- ⚡ Fun fact: *I love solving DSA problems on LeetCode!*  
+- ⚡ Fun fact: *I enjoy mixing tech with creativity — coding by day, editing by night!*  
 - 📫 Reach me at: **muthumani4002@gmail.com**  
 - 😄 Pronouns: **he/him**
 
@@ -36,7 +36,7 @@
 
 ---
 
-### 🛠 Editing & Creative Tools
+### 🎨 Creative & Editing Tools
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm"/>
@@ -58,19 +58,9 @@
     <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/muthumani4002/" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/_._mr_._imperfect_._/?hl=en" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
-
----
-
-### 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muthumani2004&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muthumani2004&layout=compact&theme=dracula" height="170" />
-</div>
-
----
