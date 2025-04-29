@@ -1,6 +1,8 @@
-<!-- 🌟 Banner Image -->
+<!-- 🌟 Banner Image with Visitor Counter -->
 <p align="center">
   <img src="./github-header-image.png" alt="Banner" />
+  <br/>
+  <img src="https://profile-counter.glitch.me/Muthumani2004/count.svg" alt="Visitor Count" />
 </p>
 
 ---
@@ -12,8 +14,7 @@
 - 💼 Looking for: **Full-time job through internships**  
 - ⚡ Fun fact: *I enjoy mixing tech with creativity — coding by day, editing by night!*  
 - 📫 Reach me at: **muthumani4002@gmail.com**  
-- 😄 Pronouns: **he/him**  
-- 👀 <img src="https://profile-counter.glitch.me/Muthumani2004/count.svg" alt="Visitor Count" />
+- 😄 Pronouns: **he/him**
 
 ---
 
