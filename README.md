@@ -1,14 +1,7 @@
 <!-- 🌟 Banner Image -->
 <p align="center">
-  <img src="./your-header-image-name.png" alt="Banner" />
+  <img src="./github-header-image.png" alt="Banner" />
 </p>
-
-<!-- 👀 Visitor Counter -->
-<p align="center">
-  👀 <img src="https://profile-counter.glitch.me/Muthumani2004/count.svg" />
-</p>
-
-<h2 align="center">Hi there 👋, I'm <span style="color:#00BFFF;">Muthumani P.</span></h2>
 
 ---
 
@@ -19,7 +12,8 @@
 - 💼 Looking for: **Full-time job through internships**  
 - ⚡ Fun fact: *I enjoy mixing tech with creativity — coding by day, editing by night!*  
 - 📫 Reach me at: **muthumani4002@gmail.com**  
-- 😄 Pronouns: **he/him**
+- 😄 Pronouns: **he/him**  
+- 👀 Visitors: <img src="https://profile-counter.glitch.me/Muthumani2004/count.svg" />
 
 ---
 
@@ -36,7 +30,7 @@
 
 ---
 
-### 🎨 Creative & Editing Tools
+### 🎨 Editing & Creative Tools
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm"/>
